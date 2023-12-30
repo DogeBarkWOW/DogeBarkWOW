@@ -15,7 +15,7 @@ You are welcome to join this experimen, lets fucking WOW!
 - Learn about Atomicals: https://docs.atomicals.xyz/
 - Mint $WOW without service fees: https://github.com/atomicals/atomicals-js
 - Buy from Unisat Marketplace: https://unisat.io/atomicals/market/arc20
-- Website: https://dogebarkwow.github.io/homepage/"
+- Official Website: https://dogebarkwow.github.io/homepage/
 - Twitter: https://twitter.com/DogeBarkWOW
 - Discord: https://discord.com/invite/33C7pEX7MZ
 
