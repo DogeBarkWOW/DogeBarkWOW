@@ -4,11 +4,11 @@ DogeBark $WOW is an experimental meme coin created and deployed on Atomicals Pro
 
 Below are the token information:
 
-"tick":"wow"
-"per_mint_amt": 1000
-"max_mints": 21000
-"bitworkc": "111"
-"atomicalId": "84405c3929d952613a6f12ab4b53e7e8389422a46463e83fef05dfd501844662i0"
+- "tick":"wow"
+- "per_mint_amt": 1000
+- "max_mints": 21000
+- "bitworkc": "111"
+- "atomicalId": "84405c3929d952613a6f12ab4b53e7e8389422a46463e83fef05dfd501844662i0"
 
 You are welcome to join this experimen, lets fucking WOW!
 
