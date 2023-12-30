@@ -38,9 +38,9 @@ Below are the token information
 
 You are welcome to join this experimen, lets fucking WOW!
 
-Learn about Atomicals: https://docs.atomicals.xyz/
-Mint $WOW without service fees: https://github.com/atomicals/atomicals-js
-Buy from Unisat Marketplace: https://unisat.io/atomicals/market/arc20
+- Learn about Atomicals: https://docs.atomicals.xyz/
+- Mint $WOW without service fees: https://github.com/atomicals/atomicals-js
+- Buy from Unisat Marketplace: https://unisat.io/atomicals/market/arc20
 
 Sincerely,
 Dato Yeoh
