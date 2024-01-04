@@ -18,6 +18,3 @@ You are welcome to join this experimen, lets fucking WOW!
 - Official Website: https://dogebarkwow.github.io/homepage/
 - Twitter: https://twitter.com/DogeBarkWOW
 - Discord: https://discord.com/invite/33C7pEX7MZ
-
-Sincerely,
-Dato Yeoh
